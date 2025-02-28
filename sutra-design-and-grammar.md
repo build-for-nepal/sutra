@@ -38,7 +38,7 @@ that will allow you to incrementally go through the design process.
 | For loop                 | laagi           | Begins a for loop                             |
 | Return                   | farkaau         | Returns a value from a function               |
 | And                      | ra              | Logical AND operator                          |
-| Or                       | waa             | Logical OR operator                           |
+| Or                       | athawa          | Logical OR operator                           |
 | Not                      | haina           | Logical NOT operator                          |
 | True                     | satya           | Boolean true value                            |
 | False                    | asatya          | Boolean false value                           |
